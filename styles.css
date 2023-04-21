@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.head{
+    text-align: center;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+}
+
+.player_one{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+}
+
+.player_two{
+    align-items: center;
+    margin: auto;
+    border: 1px solid black;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    
+}
